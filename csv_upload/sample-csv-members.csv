@@ -1,0 +1,6 @@
+Name,Email,Phone,Status
+John Doe,john.doe@gmail.com,123-456-7890,1
+Test User,test.user@example.com,434-506-6483,1
+Demo User,demo.user@example.com,986-438-0040,1
+Example User,example.user@demo.com,439-405-2345,0
+Codex User,codex.user@test.com,765-980-0543,1
